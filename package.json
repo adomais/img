@@ -1,0 +1,19 @@
+{
+  "name": "adomais",
+  "version": "1.0.0",
+  "description": "blog_img",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adomais/img.git"
+  },
+  "author": "adomais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adomais/img/issues"
+  },
+  "homepage": "https://github.com/adomais/img#readme"
+}
